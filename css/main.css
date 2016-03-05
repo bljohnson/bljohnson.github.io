@@ -1,15 +1,15 @@
 .name
 	{text-align: center;
 		font-family: Verdana, Arial;
-		font-size: 32px;}
+		font-size: 22px;}
 .contact
 	{text-align: center;
 		font-family: Verdana, Arial;
-		font-size: 14px;}
+		font-size: 12px;}
 .education
 	{text-align: left;
 		font-family: Verdana, Arial;
-		font-size: 16px;}
+		font-size: 14px;}
 h3
 	{border-bottom: 1px solid black;}
 .left
@@ -19,8 +19,8 @@ h3
 .work
 	{text-align: left;
 		font-family: Verdana, Arial;
-		font-size: 16px;}
+		font-size: 14px;}
 .volunteer
 	{text-align: left;
 		font-family: Verdana, Arial;
-		font-size: 16px;}
+		font-size: 14px;}

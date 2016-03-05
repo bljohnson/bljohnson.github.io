@@ -7,8 +7,7 @@
 		font-family: Verdana, Arial;
 		font-size: 12px;}
 .education
-	{text-align: left;
-		font-family: Verdana, Arial;
+	{font-family: Verdana, Arial;
 		font-size: 14px;}
 h3
 	{border-bottom: 1px solid black;}
@@ -17,10 +16,8 @@ h3
 .right
 	{float:right;}
 .work
-	{text-align: left;
-		font-family: Verdana, Arial;
+	{font-family: Verdana, Arial;
 		font-size: 14px;}
 .volunteer
-	{text-align: left;
-		font-family: Verdana, Arial;
+	{font-family: Verdana, Arial;
 		font-size: 14px;}

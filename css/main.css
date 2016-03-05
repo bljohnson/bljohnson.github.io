@@ -1,0 +1,26 @@
+.name
+	{text-align: center;
+		font-family: Verdana, Arial;
+		font-size: 32px;}
+.contact
+	{text-align: center;
+		font-family: Verdana, Arial;
+		font-size: 14px;}
+.education
+	{text-align: left;
+		font-family: Verdana, Arial;
+		font-size: 16px;}
+h3
+	{border-bottom: 1px solid black;}
+.left
+	{float:left;}
+.right
+	{float:right;}
+.work
+	{text-align: left;
+		font-family: Verdana, Arial;
+		font-size: 16px;}
+.volunteer
+	{text-align: left;
+		font-family: Verdana, Arial;
+		font-size: 16px;}

@@ -7,8 +7,7 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 		font-family: Verdana, Arial;
 		font-size: 18px;
 	}
-.name p {margin-left: 600px;
-	 margin-right: 100px;
+.name p {float: right;
         }
 img {display: block;
 	max-width: 400 px;

@@ -10,6 +10,8 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 img {float:right;
 	padding-left: 15px;
 	padding-bottom: 15px;
+	max-width: 100%;
+	height: auto;
 }
 .contact
 	{text-align: center;

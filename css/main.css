@@ -1,16 +1,25 @@
 html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-}
+     }
 .name
 	{text-align: center;
 		font-family: Verdana, Arial;
-		font-size: 18px;}
-	p {margin-right: auto;}
+		font-size: 18px;
+	}
+.name p {margin-right: auto;
+        }
+img {display: block;
+	max-width: 230 px;
+	max-height: 95px;
+	width: auto;
+	height:; auto;
+     }
 .contact
 	{text-align: center;
 		font-family: Verdana, Arial;
-		font-size: 12px;}
+		font-size: 12px;
+	}
 .education
 	{text-align: left;
 		font-family: Verdana, Arial;
@@ -30,9 +39,11 @@ h3
 	{border-bottom: 1px solid black;
 	}
 .left
-	{float:left;}
+	{float:left;
+	}
 .right
-	{float:right;}
+	{float:right;
+	}
 .work
 	{text-align: left;
 		font-family: Verdana, Arial;

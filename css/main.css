@@ -27,7 +27,7 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 		margin-left: 55px;
 		margin-right: 55px;
 		background-color: #F4A460;
-		line-height: 3px;
+		line-height: 15px;
 	}
 h3
 	{border-bottom: 1px solid black;
@@ -52,7 +52,7 @@ h3
 		margin-left: 55px;
 		margin-right: 55px;
 		background-color: #F4A460;
-		line-height: 3px;
+		line-height: 15px;
 	}
 .volunteer
 	{text-align: left;
@@ -68,5 +68,5 @@ h3
 		margin-left: 55px;
 		margin-right: 55px;
 		background-color: #F4A460;
-		line-height: 3px;
+		line-height: 15px;
 	}

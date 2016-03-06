@@ -1,4 +1,4 @@
-html {background-color: #F5DEB3;}
+html {background-color: #FA8072;}
 .name
 	{text-align: center;
 		font-family: Verdana, Arial;
@@ -14,11 +14,10 @@ html {background-color: #F5DEB3;}
 		border-radius: 40px
 		padding: 20px;
 		margin: 30px;
-		background-color: #B0E0E6;
+		background-color: #FFEFD5;
 	}
 h3
 	{border-bottom: 1px solid black;
-		color: blue;
 	}
 .left
 	{float:left;}
@@ -31,7 +30,7 @@ h3
 		border-radius: 40px
 		padding: 20px;
 		margin: 30px;
-		background-color: #B0E0E6
+		background-color: #FFEFD5;
 	}
 .volunteer
 	{text-align: left;
@@ -40,5 +39,5 @@ h3
 		border-radius: 40px
 		padding: 20px;
 		margin: 30px;
-		background-color: #B0E0E6
+		background-color: #FFEFD5;
 	}

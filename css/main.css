@@ -2,7 +2,7 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 	background-repeat: no-repeat;
 	background-attachment: fixed;
      }
-.name
+.header
 	{text-align: center;
 		font-family: cursive, Verdana, Arial;
 		font-size: 25px;
@@ -18,7 +18,7 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 		margin-right: 55px;
 		background-color: #DAA520;
 	}
-.contact
+.header p
 	{text-align: center;
 		font-family: cursive, Verdana, Arial;
 		font-size: 14px;

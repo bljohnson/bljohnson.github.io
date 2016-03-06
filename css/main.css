@@ -7,12 +7,12 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 		font-family: Verdana, Arial;
 		font-size: 18px;
 	}
-.name p {margin-left: 500px;
-	 margin-right: 150px;
+.name p {margin-left: 600px;
+	 margin-right: 100px;
         }
 img {display: block;
-	max-width: 550 px;
-	max-height: 350px;
+	max-width: 400 px;
+	max-height: 200px;
 	width: auto;
 	height:; auto;
      }

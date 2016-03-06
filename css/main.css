@@ -1,3 +1,4 @@
+{background-color: #F5DEB3;}
 .name
 	{text-align: center;
 		font-family: Verdana, Arial;
@@ -9,7 +10,11 @@
 .education
 	{text-align: left;
 		font-family: Verdana, Arial;
-		font-size: 12px;}
+		font-size: 12px;
+		border-radius: 20px
+		padding: 10px;
+		background-color: #AFEEEE;
+	}
 h3
 	{border-bottom: 1px solid black;
 		color: blue;

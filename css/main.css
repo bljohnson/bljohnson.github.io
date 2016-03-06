@@ -1,4 +1,7 @@
-html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg');}
+html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg');
+	background-repeat: no repeat;
+	background-attachment: fixed;
+}
 .name
 	{text-align: center;
 		font-family: Verdana, Arial;

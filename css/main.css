@@ -6,14 +6,14 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 .contact
 	{text-align: center;
 		font-family: Verdana, Arial;
-		font-size: 11px;}
+		font-size: 12px;}
 .education
 	{text-align: left;
 		font-family: Verdana, Arial;
 		font-size: 12px;
-		border-radius: 40px;
-		padding: 20px;
-		margin: 30px;
+		border-radius: 35px;
+		padding: 15px;
+		margin: 40px;
 		background-color: #F4A460;
 	}
 h3
@@ -27,17 +27,17 @@ h3
 	{text-align: left;
 		font-family: Verdana, Arial;
 		font-size: 12px;
-		border-radius: 40px;
-		padding: 20px;
-		margin: 30px;
+		border-radius: 35px;
+		padding: 15px;
+		margin: 40px;
 		background-color: #F4A460;
 	}
 .volunteer
 	{text-align: left;
 		font-family: Verdana, Arial;
 		font-size: 12px;
-		border-radius: 40px;
-		padding: 20px;
-		margin: 30px;
+		border-radius: 35px;
+		padding: 15px;
+		margin: 40px;
 		background-color: #F4A460;
 	}

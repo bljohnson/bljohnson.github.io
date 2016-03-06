@@ -24,6 +24,9 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 		font-family: Tahoma, sans-serif;
 		font-size: 12px;
 	}
+p, ul {padding: 0;
+        margin: 0;
+      }
 .education
 	{text-align: left;
 		font-family: Tahoma, sans-serif;

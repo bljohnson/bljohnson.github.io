@@ -8,14 +8,6 @@ html {background-image:url('http://vienna-wv.com/portal/wp-content/uploads/2015/
 		font-size: 25px;
 		font-weight: bold;
 	}
-img {float:right;
-	padding-left: 15px;
-	padding-bottom: 15px;
-	width: auto;
-	height: auto;
-	max-width: 200px;
-	max-height: 200px;
-}
 .contact
 	{text-align: center;
 		font-family: cursive, Verdana, Arial;

@@ -84,3 +84,7 @@ h3
 		background-color: #F4A460;
 		line-height: 20px;
 	}
+ul {
+margin-top: -10px;
+padding: 0;
+}

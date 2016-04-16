@@ -3,6 +3,7 @@ body {
 	margin-right: ;
 }
 header {
+	box-sizing: border-box;
 	background-color: #F4A460;
 	opacity: 0.85;
 	text-align: center;
@@ -17,6 +18,7 @@ header p {
 	font: 13px Tahoma, sans-serif;
 }
 section {
+	box-sizing: border-box;
 	background-color: #F4A460;
 	opacity: 0.85;
 	text-align: left;

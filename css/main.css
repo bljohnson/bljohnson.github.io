@@ -1,6 +1,5 @@
 body {
 	background: url(http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg) no-repeat fixed;
-	margin-right: ;
 }
 header {
 	box-sizing: border-box;
@@ -18,7 +17,6 @@ header p {
 	font: 13px Tahoma, sans-serif;
 }
 section {
-	box-sizing: border-box;
 	background-color: #F4A460;
 	opacity: 0.85;
 	text-align: left;

@@ -1,3 +1,7 @@
+@-ms-viewportv{
+  width: device-width;
+}
+
 body {
 	background: url(http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg) no-repeat fixed;
 	margin-right: ;

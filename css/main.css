@@ -1,3 +1,46 @@
+@media only screen and (max-device-width: 480px) {
+body {
+	background: url(http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg) no-repeat fixed;
+}
+header {
+	background-color: #F4A460;
+	opacity: 0.85;
+	text-align: center;
+	font: bold 13px Tahoma, sans-serif;
+	border-radius: 35px;
+	border: 3px solid #000000;
+	padding: 3px 13px 10px 13px;
+	margin: 4% 10% 4% 10%;
+}
+header p {
+	font: 10px Tahoma, sans-serif;
+}
+section {
+	background-color: #F4A460;
+	opacity: 0.85;
+	text-align: left;
+	font: 11px/20px Tahoma, sans-serif;
+	border-radius: 35px;
+	border: 1px solid #000000;
+	padding: 15px 25px 15px 25px;
+	margin: 4% 7% 4% 7%;
+}
+h3 {
+	border-bottom: 1px solid black;
+}
+.right {
+	float: right;
+}
+ul {
+	list-style-type: square;
+}
+
+
+
+	
+	
+}
+
 body {
 	background: url(http://vienna-wv.com/portal/wp-content/uploads/2015/11/falling-leaves.jpg) no-repeat fixed;
 }

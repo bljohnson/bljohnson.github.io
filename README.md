@@ -1,1 +1,1 @@
-# bljohnson.github.io
+As part of my application to Prime Digital Academy, I created a web resume and styled it using CSS. After being accepted, part of the prework portion of the program involved incorporating learned concepts to restyle and reformat the resum.
